@@ -2,7 +2,7 @@
 """Alta3 Research | RZFeeser
    print() - concatenate vs print a series of items"""
 
-def main():
+def main ():
 
     # collect string input from the user
     user_input = input("Please enter an IPv4 IP address:")
